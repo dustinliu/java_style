@@ -26,6 +26,7 @@
         <exclude name="AccessorClassGeneration"/>
         <exclude name="UncommentedEmptyConstructor"/>
         <exclude name="ImmutableField"/>
+        <exclude name="UseVarargs"/>
     </rule>
     <rule ref="rulesets/java/sunsecure.xml"/>
     <rule ref="rulesets/java/empty.xml"/>
