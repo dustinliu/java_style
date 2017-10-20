@@ -42,7 +42,7 @@
 
         <module name="LineLength">
             <property name="ignorePattern" value=".*https*:\/\/.*"/>
-            <property name="max" value="100"/>
+            <property name="max" value="120"/>
         </module>
         <module name="MethodLength"/>
         <module name="ParameterNumber"/>
